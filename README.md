@@ -1,4 +1,4 @@
-## Hey!
+## Hey! :wave:
 
 I'm Professor.Jud1th, a cybersecurity analyst interested in social engineering, physical security, and malware analysis.
 
