@@ -59,6 +59,8 @@ When I'm not in the terminal, I'm likely:
 
 ![Professor-Jud1th GitHub Stats](https://github-readme-stats.vercel.app/api?username=Professor-Jud1th&show_icons=true&theme=tokyonight)
 
+![Visitors](https://komarev.com/ghpvc/?username=Professor-Jud1th&color=blueviolet&style=flat-square)
+
 <!--
 **Professor-Jud1th/Professor-Jud1th** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
