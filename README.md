@@ -51,7 +51,7 @@
 
 ### 🕹️ Off-Duty
 When I'm not in the terminal, I'm likely:
-- **Gaming:**
+- **Gaming:** Story-based action games, RPGs, indie titles. PS5/PC
 - **Reading:** Heavy focus on Sci-Fi and Fantasy genres.
 - **Culinary:** Exploring new cooking techniques and recipies.
 
