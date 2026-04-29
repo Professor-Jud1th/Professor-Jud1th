@@ -10,7 +10,7 @@
 ### 🚀 Current Projects
 - **[effective-c-labs](https://github.com/Professor-Jud1th/effective-c-labs):** Tracking my progress through Robert Seacord's *Effective C*.
 - **The Forge:** Optimizing my CachyOS development environment for system-level debugging.
-- **The Vault:** (In Progress) Building a Proxmox-based homelab for malware detonation and forensic research.
+- **The Lab:** (In Progress) Building a Proxmox-based homelab for malware detonation and forensic research.
 
 ---
 
